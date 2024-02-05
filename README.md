@@ -9,6 +9,7 @@ Load healthcare data using Pandas.
 Visualize missing values with a heatmap using Seaborn.
 Usage
 =============================================================
+
 Data Preprocessing:
 
 Map categorical data for further analysis.
